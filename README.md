@@ -14,6 +14,7 @@ The information below contains everything necessary to run the code properly. Pl
 
 # Code & Analysis Tool
 The project was created using Jupyter Notebook, and this Readme assumes the same tool is being used to run the script. The code is stored in a .jpynb file.
+code:[ https://github.com/MalPatel21/NHANES-Diabetes-ML-Evaluation/blob/main/HDS_ML_MALIKAPATEL_2606.ipynb](https://github.com/MalPatel21/NHANES-Diabetes-ML-Evaluation/blob/main/HDS_ML_MALIKAPATEL_2606.ipynb)
 
 # Data Directory Configuration
 To maintain reproducibility, ensure your local directory is structured as follows before running the scripts:
